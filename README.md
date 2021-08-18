@@ -1,1 +1,1 @@
-# Kunikichi-92k.github.io
+# kunikichi-92k.github.io
